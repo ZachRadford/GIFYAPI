@@ -1,7 +1,7 @@
 
 var games = ["Final Fantasy VII", "Deus Ex", "Devil May Cry", "World of Warcraft", "DOOM", "Duke Nukem", "Pac-man", "Counter-Strike"]
 
-var queryURL = "//api.giphy.com/v1/gifs/search?api_key=dc6zaTOxFJmzC&limit=10&q="
+var queryURL = "https://api.giphy.com/v1/gifs/search?api_key=dc6zaTOxFJmzC&limit=10&q="
 
 var allowedRatings = ["g", "pg", "y", "pg-13"]
 
